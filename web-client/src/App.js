@@ -1,4 +1,3 @@
-import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import StreamCreate from './pages/streams/StreamCreate';
 import StreamEdit from './pages/streams/StreamEdit';
